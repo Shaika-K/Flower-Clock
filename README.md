@@ -2,7 +2,6 @@
 Personal learning project to build a clock using Processing
 
 
-# Flower Clock
 Learning Processing - Project 1
 Personal refernce repository
 
